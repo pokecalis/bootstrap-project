@@ -1,0 +1,124 @@
+Xsession: X session started for ultraswagger at Mon Aug 29 07:21:45 AM EDT 2022
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/ultraswagger/.Xauthority
+localuser:ultraswagger being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=ultraswagger
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/ultraswagger
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=ultraswagger
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/ultraswagger/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/ultraswagger
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/ultraswagger
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 07:21:46.234: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:898): GLib-CRITICAL **: 07:21:46.370: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:898): xfwm4-WARNING **: 07:21:46.763: Another compositing manager is running on screen 0
+
+(xfsettingsd:906): GLib-CRITICAL **: 07:21:46.852: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:906): GLib-GObject-CRITICAL **: 07:21:46.861: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+** (xfce4-power-manager:934): WARNING **: 07:21:47.304: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:934): WARNING **: 07:21:47.304: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(xfce4-power-manager:934): GLib-GObject-WARNING **: 07:21:47.454: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x564fe489c0c0' of type 'GDBusProxy'
+
+(wrapper-2.0:930): Gtk-WARNING **: 07:21:47.527: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:959): WARNING **: 07:21:47.573: No outputs have backlight property
+
+** (xiccd:950): WARNING **: 07:21:47.604: EDID is empty
+
+(xfce4-power-manager:934): xfce4-power-manager-WARNING **: 07:21:47.627: could not map keysym 1008ffa8 to keycode
+
+
+(wrapper-2.0:957): GLib-GIO-CRITICAL **: 07:21:47.635: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:957): GLib-GIO-CRITICAL **: 07:21:47.635: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:957): GLib-GObject-WARNING **: 07:21:47.635: invalid (NULL) pointer instance
+
+(wrapper-2.0:957): GLib-GObject-CRITICAL **: 07:21:47.635: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:957): Gtk-WARNING **: 07:21:47.635: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:957): Gtk-WARNING **: 07:21:47.653: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:955): Gtk-WARNING **: 07:21:47.668: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:959): xfce4-power-manager-plugin-WARNING **: 07:21:47.682: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+(wrapper-2.0:959): Gtk-WARNING **: 07:21:47.705: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+** (xfce4-power-manager:934): WARNING **: 07:21:47.721: No outputs have backlight property
+
+(xfce4-power-manager:934): xfce4-power-manager-WARNING **: 07:21:47.724: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+blueman-applet 07.21.47 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 07.21.47 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 07.21.48 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+
+** (xiccd:950): WARNING **: 07:21:49.965: EDID is empty
+
+** (xiccd:950): WARNING **: 07:21:49.968: EDID is empty
+
+** (xiccd:950): WARNING **: 07:22:29.527: EDID is empty
+
+** (xiccd:950): WARNING **: 07:22:29.535: EDID is empty
+
+** (xiccd:950): WARNING **: 07:23:27.447: EDID is empty
+
+** (xiccd:950): WARNING **: 07:23:27.463: EDID is empty
+
+** (xiccd:950): WARNING **: 07:23:33.148: EDID is empty
+
+** (xiccd:950): WARNING **: 07:23:33.150: EDID is empty
+
+** (xiccd:950): WARNING **: 07:23:35.882: EDID is empty
+
+** (xiccd:950): WARNING **: 07:23:35.886: EDID is empty
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1657, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file ./ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+** (xiccd:950): WARNING **: 07:24:20.671: EDID is empty
+
+** (xiccd:950): WARNING **: 07:24:20.673: EDID is empty
+Undecodable sequence: \001b(hex)[22;0;0t
