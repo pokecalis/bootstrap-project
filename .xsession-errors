@@ -122,3 +122,26 @@ blueman-applet 07.21.48 WARNING  DiscvManager:119 update_menuitems: warning: Ada
 
 ** (xiccd:950): WARNING **: 07:24:20.673: EDID is empty
 Undecodable sequence: \001b(hex)[22;0;0t
+
+** (xiccd:950): WARNING **: 07:45:36.314: EDID is empty
+
+** (xiccd:950): WARNING **: 07:45:36.335: EDID is empty
+
+(xfce4-keyboard-settings:10131): Gtk-WARNING **: 07:50:10.350: Content added to the action area of a dialog using header bars
+
+(xfce4-keyboard-settings:10131): Gtk-WARNING **: 07:50:10.350: Content added to the action area of a dialog using header bars
+
+(xfce4-keyboard-settings:10131): Gtk-WARNING **: 07:50:10.352: Content added to the action area of a dialog using header bars
+
+(xfce4-keyboard-settings:10131): Gtk-WARNING **: 07:50:10.352: Content added to the action area of a dialog using header bars
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Warning:          Could not resolve keysym XF86EmojiPicker
+Warning:          Could not resolve keysym XF86EmojiPicker
+Warning:          Could not resolve keysym XF86EmojiPicker
+Warning:          Could not resolve keysym XF86EmojiPicker
+Warning:          Could not resolve keysym XF86EmojiPicker
+Warning:          Could not resolve keysym XF86EmojiPicker
+Warning:          Could not resolve keysym XF86EmojiPicker
+Warning:          Could not resolve keysym XF86EmojiPicker

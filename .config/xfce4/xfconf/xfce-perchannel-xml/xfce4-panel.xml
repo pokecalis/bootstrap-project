@@ -92,6 +92,7 @@
     <property name="plugin-15" type="string" value="genmon"/>
     <property name="plugin-16" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="firefox.instance4225"/>
     </property>
     <property name="plugin-17" type="string" value="notification-plugin"/>
     <property name="plugin-18" type="string" value="power-manager-plugin"/>
